@@ -5,7 +5,7 @@
 Love to know how everything works.
 
 
-<h3> 🗃️  Linkedin : https://www.linkedin.com/in/gabrielgomes93/ </h3>
+<h3> 🗃️  LinkedIn : https://www.linkedin.com/in/gabrielgomes93/ </h3>
 
 
 
