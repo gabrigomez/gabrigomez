@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+### I'm currently learning Vue.Js, React and Node.js. 
+
+Love to know how everything works.
+
+
+🔭 Linkedin : https://www.linkedin.com/in/gabrielgomes93/
+
+
+
+
 <!--
 **gabrigomez/gabrigomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
