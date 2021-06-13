@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-### I'm currently learning Vue.Js, React and Node.js. 
-
-Love to know how everything works.
+### Love to know how everything works.
 
 
 <h3> 🗃️  LinkedIn : https://www.linkedin.com/in/gabrielgomes93/ </h3>
