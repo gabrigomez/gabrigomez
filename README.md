@@ -4,7 +4,7 @@
 ### Love to know how everything works.
 
 
-#### :computer: Frontend Dev in <a href="https://www.tracklift.app/">@tracklift </a><br/><br/><br/>
+#### :computer: Frontend Dev and Quality Assurance in <a href="https://adeptly.ai/">@adeptly </a><br/><br/><br/>
 ---
 
 
