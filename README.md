@@ -4,7 +4,7 @@
 ### Love to know how everything works.
 
 
-#### :computer: Frontend Dev and Quality Assurance in <a href="https://adeptly.ai/">@adeptly </a><br/><br/><br/>
+#### - Frontend Dev and Quality Assurance in <a href="https://adeptly.ai/">@adeptly </a><br/><br/><br/>
 ---
 
 
@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 
 
