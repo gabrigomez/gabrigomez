@@ -1,10 +1,12 @@
+<div align="center">
+  
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-
 ### Love to know how everything works.
 
+</div>
+<br/>
 
-#### - Desenvolvedor web com foco em Front-end, mas que também estuda o lado Back-end da questão<br/><br/>
+#### - Desenvolvedor web com foco em Front-end, mas que também estuda o lado Back-end da questão.<br/><br/>
 ##### Meus interesses principais em Front-end são:
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
@@ -23,18 +25,22 @@
 ![](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 
-
-## Contato:
+<div align="center">
+  
+## Contato
 
 <a href="https://www.linkedin.com/in/gabrielgomes93/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 <a href="https://gabrigomez.netlify.app/">
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"  />
-</a><br/><br/><br/><br/>
-<br/><br/><br/>
+</a><br/><br/>
+</div>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+</br>
+
 
 
 
