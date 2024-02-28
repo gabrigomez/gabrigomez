@@ -6,7 +6,7 @@
 </div>
 <br/>
 
-#### - Desenvolvedor web com foco em Front-end, mas que também estuda o lado Back-end da questão.<br/><br/>
+#### - Desenvolvedor Front-end, mas que também estuda o lado Back-end da questão.<br/><br/>
 ##### Meus interesses principais em Front-end são:
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
